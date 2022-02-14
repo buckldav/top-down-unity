@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    private const int SPEED_UNIT = 1000;
+    private const int SPEED_UNIT = 100;
     public float speed;
     // Start is called before the first frame update
     void Start()
